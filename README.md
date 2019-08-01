@@ -2,7 +2,9 @@
 
 Examining: 
 Camp Fire - Paradise, CA | November 8th - 25th 2018
+
 Carr Fire - Redding, CA | July 23rd - August 30th 2018
+
 Hurricane Harvey, Houston Metro Area | August 23rd - August 31st 2017
 
 When responding to disasters such as wildfires, hurricanes, floods and earthquakes,  emergency workers have the critical task of being able to identify where survivors are located in order to quickly and accurately send assistance. 

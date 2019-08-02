@@ -9,6 +9,7 @@ Carr Fire - Redding, CA | July 23rd - August 30th 2018
 Hurricane Harvey, Houston Metro Area | August 23rd - August 31st 2017
 
 #### [Please Read the Summary of Our Analysis Here](https://drive.google.com/file/d/1pfrALyBYQm49f1ucScO3CiN1P7pYer0V/view?usp=sharing)
+#### [Please Take a moment to look through Our Presentation Here](https://github.com/pwalesdi/Mapping_Disasters/blob/master/presentation.pdf)
 
 
 When responding to disasters such as wildfires, hurricanes, floods and earthquakes,  emergency workers have the critical task of being able to identify where survivors are located in order to quickly and accurately send assistance. 
@@ -35,7 +36,7 @@ One final thought for companies like FEMA who might feel like this type of tool 
 
 [Geo Mapping Notebook](https://github.com/pwalesdi/Mapping_Disasters/blob/master/5.google_maps_plotting.ipynb)
 
-[Data Visualization Notebook]()
+[Data Visualization Notebook](https://github.com/pwalesdi/Mapping_Disasters/blob/master/6.visualization.ipynb)
 
 # Visuals
 

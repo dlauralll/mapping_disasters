@@ -8,6 +8,9 @@ Carr Fire - Redding, CA | July 23rd - August 30th 2018
 
 Hurricane Harvey, Houston Metro Area | August 23rd - August 31st 2017
 
+# [Please Read the Summary of Our Analysis](https://drive.google.com/file/d/1pfrALyBYQm49f1ucScO3CiN1P7pYer0V/view?usp=sharing)
+
+
 When responding to disasters such as wildfires, hurricanes, floods and earthquakes,  emergency workers have the critical task of being able to identify where survivors are located in order to quickly and accurately send assistance. 
 
 Given the rapid growth in wireless technology and the increasing likelihood that people all across the globe have a cell phone we want to attempt to tap into this technology in such a way that we can use social media posts asking for help and assistance to track survivors.

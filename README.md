@@ -51,7 +51,7 @@ One final thought for companies like FEMA who might feel like this type of tool 
 
 ### Camp Fire Location and Spread
 <p align="center">
-  <img width="750" height="550" src="https://github.com/pwalesdi/Mapping_Disasters/blob/master/images/camp_fire.jpeg">
+  <img width="750" height="550" src="https://github.com/pwalesdi/Mapping_Disasters/blob/master/images/camp_fire.png">
 </p>
 
 

@@ -34,4 +34,21 @@ One final thought for companies like FEMA who might feel like this type of tool 
 
 [Data Visualization Notebook]()
 
+# Visuals
+
+### Mapping Geo-Location of Disaster Related Tweets - Chico, CA
+![alt text](https://github.com/pwalesdi/Mapping_Disasters/blob/master/images/satellite-Chico.png "Chico, CA")
+<space>
+	
+### Mapping Geo-Location of Disaster Related Tweets - Redding & Chico, CA
+![alt text](https://github.com/pwalesdi/Mapping_Disasters/blob/master/images/satellite-Overview.png "Carr Fire & Camp Fire")
+<space>
+<space>
+
+### Camp Fire Location and Spread
+<p align="center">
+  <img width="750" height="550" src="https://github.com/pwalesdi/Mapping_Disasters/blob/master/images/camp_fire.jpeg">
+</p>
+
+
 
